@@ -6,6 +6,7 @@ The Blood bank system project report contain information related to blood like �
 •	Available blood stock
 •	Donor detail
 •	Patient detail
+
 Languages used
 1.	HTML
 2.	CSS
